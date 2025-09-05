@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics, Math, and CS at Stanford #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Physics, Math, CS at Stanford #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic_color.jpg
+  image: prof_pic_bw.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
