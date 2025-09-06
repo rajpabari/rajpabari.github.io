@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year student at Stanford pursuing an MS in theoretical computer science and BS in pure math. Throughout my studies, I've explored many different fields, and my interests remain quite wide.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am visting the [Quantum Systems Lab](https://www.yongshanding.com/) at Yale working on scalable quantum computing architectures. I am also working with [Dr. Roger Blandford](https://en.wikipedia.org/wiki/Roger_Blandford) on a theory for JWST's ["little red dot"](https://en.wikipedia.org/wiki/Little_red_dot_(cosmological_object)) galaxies. Finally, I am generalizing the analysis of [my prior work at Amazon](https://arxiv.org/abs/2502.07952), a game theory model of direct price competition with revenue sharing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I worked on reinforcement learning for [supply chain optimization](https://www.amazon.science/tag/supply-chain-optimization-technologies) at Amazon, used machine learning to accelerate specialty gas R&D at semiconductor manufacturer [EMD Electronics](https://www.emdgroup.com/en/expertise/electronics.html), and did classified work on [BACN](https://www.northropgrumman.com/what-we-do/mission-solutions/battlefield-airborne-communications-node-bacn) at [Northrop Grumman](https://www.northropgrumman.com/). I also founded two startups, one which [used generative AI for personalized sales emails](https://www.youtube.com/watch?v=SknO1XVqjw0) and another which [created portable hydroelectric generators for backpackers](https://www.youtube.com/watch?v=UPteQWwHVIQ).   
+
+Outside of all this, I enjoy running long distances, hiking, playing poker, and reading philosophy. Check out the [vlog from my recent 100KM race](https://www.youtube.com/watch?v=aY8IicN8Fns), a [blog post on the good life](https://rajpabari.com/goals-responsibilities-and-the-good-lifewhy-i-make-my-bed-every-morning/), or a [blog post about how and why I ran 4 miles every 4 hours for 48 hours](https://rajpabari.com/how-and-why-i-ran-4-miles-every-4-hours-for-48-hours/).
+
+You can reach me at firstnamelastname (AT) outlook (DOT) com.
